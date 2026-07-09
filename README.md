@@ -43,6 +43,6 @@ The model successfully identifies financially distressed firms and demonstrates 
 
 ## Repository Contents
 
-- `bankruptcy_prediction.ipynb` – Python implementation (Google Colab)
 - `bankruptcy_prediction.R` – R implementation
+- `bankruptcy_prediction.ipynb` – Python implementation (Google Colab)
 - `Project_Report.pdf` – Full project report with methodology and findings
