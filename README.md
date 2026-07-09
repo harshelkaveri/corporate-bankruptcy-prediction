@@ -12,7 +12,7 @@ The project was implemented in both **Python** and **R** and demonstrates the co
 - 6,819 companies
 - 95 financial ratios
 - Target variable: Bankruptcy
-**Note:** The dataset is not included in this repository. It can be downloaded from Kaggle. After downloading, save the file as `bankruptcy.csv` in the project directory before running the Python or R scripts.
+- **Note:** The dataset is not included in this repository. It can be downloaded from Kaggle. After downloading, save the file as `bankruptcy.csv` in the project directory before running the Python or R scripts.
   
 ## Key Features
   
